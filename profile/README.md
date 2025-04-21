@@ -1,48 +1,51 @@
-# 💡 Advanced 1팀 - INNER CIRCLE: 데이터 분석 coures 2기
+# 📊 Advanced 1팀 | INNER CIRCLE 데이터 분석 과정 2기
 
-![FastCampus](https://upload.wikimedia.org/wikipedia/commons/2/2b/Fastcampus_logo.png)
-
-안녕하세요! 저희는 **패스트캠퍼스 Inner Circle 데이터 분석 Course 2기**의 **Advanced 1팀**입니다.  
-데이터 기반 인사이트 도출을 통해 실제 문제 해결에 도전하고 있습니다.
+> 패스트캠퍼스 INNER CIRCLE 데이터 분석 과정 2기  
+> **Advanced 1팀**의 데이터 분석 프로젝트 Organization입니다.
 
 ---
 
-## 📌 프로젝트 개요
+## 💡 과정 소개
 
-- **과정명**: FastCampus Inner Circle 데이터 분석 Course 2기  
-- **팀명**: Advanced 1팀  
-- **목표**: 데이터 기반 문제 해결 및 인사이트 도출  
-- **기술스택**: `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `Jupyter Notebook`, `Git`, `VSCode`
+패스트캠퍼스의 INNER CIRCLE 데이터 분석 과정은  
+실제 기업 현장에서 필요한 데이터 분석 프로세스를 실습 중심으로 학습하며,  
+직무 역량과 협업 능력을 동시에 키우는 실무형 프로젝트 기반 학습 프로그램입니다.
 
----
-
-## 🧠 주제 소개
-
-> 이 섹션에 여러분의 프로젝트 주제를 간략히 소개해주세요.  
-예시:
-> **"OO 데이터를 분석하여 사용자의 행동 패턴을 예측하고, 마케팅 전략에 활용할 수 있는 인사이트를 제시한다."**
+Advanced 1팀은 이 과정을 통해 **데이터 분석 문제 해결 능력**과  
+**팀 기반 협업 경험**을 쌓고, 실전 프로젝트를 통해 역량을 검증합니다.
 
 ---
 
-## 🛠️ 사용 기술 및 도구
+## 🚀 팀 목표
 
-| 목적 | 도구 |
-|------|------|
-| 언어 | Python |
-| 데이터 처리 | Pandas, NumPy |
-| 시각화 | Matplotlib, Seaborn |
-| 모델링 | Scikit-learn |
-| 협업 및 버전관리 | Git, GitHub |
-| 개발환경 | Jupyter Notebook, VSCode |
+- 문제 정의부터 데이터 수집, 전처리, 모델링, 인사이트 도출까지 실무 흐름을 경험.
+- GitHub 기반 협업을 통해 효율적인 코드 관리와 버전 컨트롤을 학습.
+- 다양한 데이터를 다루며 분석 능력, 시각화, 커뮤니케이션 능력을 강화.
+- 실전용 데이터 분석 포트폴리오를 팀 프로젝트 형태로 완성.
 
 ---
 
-## 📁 디렉토리 구조
+## 🗂️ 프로젝트 목록
 
-```bash
-├── data/                 # 데이터 파일 (.csv 등)
-├── notebooks/            # Jupyter 노트북
-├── src/                  # Python 스크립트 파일
-├── outputs/              # 시각화 및 분석 결과물
-├── README.md             # 리포지토리 소개 문서
-└── requirements.txt      # 프로젝트 패키지 목록
+| 프로젝트명        | 설명                            | 링크            |
+|------------------|--------------------------------|-----------------|
+| 📁 Project 1 | 요식업 창업 리포트 만들기: 데이터 기반 의사결정  | [바로가기](링크) |
+| 📁 Project 2    | 사용자 행동 데이터 분석 프로젝트  | [바로가기](링크) |
+
+---
+
+## 🧑‍💻 팀원 소개
+
+| 이름         | 역할            | GitHub |
+|--------------|-----------------|--------|
+| 김희환       | (담당 역할)            | [희환님 Github](https://github.com/khhwan/)|
+| 이혜빈       | (담당 역할)            | [링크] |
+| 최재우       | (담당 역할)            | [링크] |
+
+---
+
+## 🛠️ 협업 환경
+
+- **Version Control**: Git, GitHub
+- **언어 및 라이브러리**: Python, Pandas, Scikit-learn, Matplotlib 등
+- **협업 툴**: Notion, GitHub Issues, Slack
